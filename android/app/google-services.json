@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402950950598",
+    "project_id": "welcome2023-govind-dev",
+    "storage_bucket": "welcome2023-govind-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402950950598:android:8ec46c9fe1e3dc23a291c7",
+        "android_client_info": {
+          "package_name": "com.example.welcome2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402950950598-3ig2b9jmfd2190qutl6s4gkhh3svujp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfWJpud6TkF7oZs_By5zE7A4UNVAvePY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402950950598-3ig2b9jmfd2190qutl6s4gkhh3svujp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
